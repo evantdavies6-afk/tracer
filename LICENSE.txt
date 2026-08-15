@@ -1,0 +1,35 @@
+PROPRIETARY SOURCE CODE LICENSE
+
+Copyright (c) 2026 Tracer. All rights reserved.
+
+1. DEFINITIONS
+"Software" refers to the source code, documentation, and any associated files 
+contained within this repository.
+"Licensor" refers to the copyright holder, [Your Name or Company Name].
+
+2. OWNERSHIP AND INTELLECTUAL PROPERTY
+The Software is owned and operated by the Licensor. It is protected by 
+copyright laws and international copyright treaties, as well as other 
+intellectual property laws and treaties. All title and intellectual property 
+rights in and to the Software remain the exclusive property of the Licensor.
+
+3. LICENSE RESTRICTIONS
+Except as expressly authorized by the Licensor in writing, you are strictly 
+prohibited from performing any of the following actions:
+- Copying, duplicating, or reproducing the Software in whole or in part.
+- Modifying, adapting, translating, or creating derivative works based upon 
+  the Software.
+- Distributing, sublicensing, leasing, renting, loaning, or transferring 
+  the Software to any third party.
+- Using the Software for any commercial purpose without prior written consent.
+- Reverse engineering, decompiling, or disassembling any compiled portions 
+  of the Software.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
